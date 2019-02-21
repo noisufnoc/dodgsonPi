@@ -1,4 +1,4 @@
-#1/usr/bin/python
+#!/usr/bin/python
 
 from sense_hat import SenseHat
 
